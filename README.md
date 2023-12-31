@@ -174,15 +174,13 @@ Good Service and Wonderful..
 
 ## Output:
 
-![Screenshot (6)](https://github.com/keziahhhf/places-around-me/assets/155235704/c9ca2dec-720f-4c92-a9e3-faa886a1d046)
+<img width="960" alt="sss (1)" src="https://github.com/keziahhhf/places-around-me/assets/155235704/f353cc6d-0446-4d91-9ead-b740c5b3a9ed">
 
-![Screenshot (7)](https://github.com/keziahhhf/places-around-me/assets/155235704/42663ab6-5ec5-4f68-adfe-49217dfb5bc7)
 
-![Screenshot (8)](https://github.com/keziahhhf/places-around-me/assets/155235704/3f6f7e90-388f-4bc8-babc-1dd440c5fc04)
 
-![Screenshot (9)](https://github.com/keziahhhf/places-around-me/assets/155235704/4a5af5da-988d-4c98-bc9b-321cdbb517a6)
 
-![Screenshot (10)](https://github.com/keziahhhf/places-around-me/assets/155235704/0b02f35d-11df-4fc0-872a-80f553e74603)
+
+
 
 
 
