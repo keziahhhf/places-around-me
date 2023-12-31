@@ -41,9 +41,9 @@ Write the needed HTML code.
 </map>
         </body>
     </html>
+```
 
-
-
+```
 <DOCTYPE.html>
     <html>
         <head>
@@ -69,7 +69,8 @@ Write the needed HTML code.
 
         </body>
     </html>
-
+```
+```
 <DOCTYPE.html>
     <html>
         <head>
@@ -99,7 +100,8 @@ Write the needed HTML code.
 </p>
         </body>
     </html>
-
+```
+```
 <DOCTYPE.html>
     <html>
         <head>
@@ -139,9 +141,9 @@ Good Service and Wonderful..
 </u1>
         </body>
     </html>
-
+```
     
-
+```
 <DOCTYPE.html>
     <html>
         <head>
@@ -176,8 +178,14 @@ Good Service and Wonderful..
 
 <img width="960" alt="sss (1)" src="https://github.com/keziahhhf/places-around-me/assets/155235704/f353cc6d-0446-4d91-9ead-b740c5b3a9ed">
 
+<img width="960" alt="screenshot 7" src="https://github.com/keziahhhf/places-around-me/assets/155235704/4e9f5b34-e09a-4208-ab8d-7162cdcf3b1e">
+
+<img width="959" alt="screenshot 8" src="https://github.com/keziahhhf/places-around-me/assets/155235704/c416e63b-00a5-405f-bd09-c1a7c66d7fb7">
+
+<img width="960" alt="screenshot 9" src="https://github.com/keziahhhf/places-around-me/assets/155235704/745828fc-7bd9-4ca7-82da-7ef0f876053e">
 
 
+<img width="960" alt="screenshot 9" src="https://github.com/keziahhhf/places-around-me/assets/155235704/8f547a88-eb34-4450-8c38-e1e066dba120">
 
 
 
